@@ -1,4 +1,4 @@
-# experience
+# ATM Program
 ## General Info
 This program simulates an atm program.  It checks the pin code and gives you the option for withdrawal, deposits or see the statement.
 
